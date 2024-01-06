@@ -69,5 +69,5 @@ The backend interface of this project was inspired by [Himanshu singh, Akash Ana
 
 ## <a name="feedback"></a> Feedback
 Any questions or suggestions? Notice any bugs or glitches? Feel free to send me on [email](shivamkushwaha9922@gmail.com)
-
+ 
 ## <a name="author"></a> Author 
